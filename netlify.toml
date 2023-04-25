@@ -1,0 +1,11 @@
+[build]
+  command = "nuxt build"
+  publish = "dist"
+
+[build.environment]
+  API_URL = "https://api.example.com"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
