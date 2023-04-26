@@ -1,0 +1,31 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/date-description.js": "components/date-description.js",
+    "components/forms-login-form.js": "components/forms-login-form.js",
+    "components/forms-signup-form.js": "components/forms-signup-form.js",
+    "components/modals-edit-company-modal.js": "components/modals-edit-company-modal.js",
+    "components/modals-modal.js": "components/modals-modal.js",
+    "components/project-card.js": "components/project-card.js",
+    "components/ui-button.js": "components/ui-button.js",
+    "components/ui-input.js": "components/ui-input.js",
+    "pages/auth/log-in.js": "pages/auth/log-in.js",
+    "pages/auth/sign-up.js": "pages/auth/sign-up.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/date-description.js": "components/date-description.js.map",
+    "components/forms-login-form.js": "components/forms-login-form.js.map",
+    "components/forms-signup-form.js": "components/forms-signup-form.js.map",
+    "components/modals-edit-company-modal.js": "components/modals-edit-company-modal.js.map",
+    "components/modals-modal.js": "components/modals-modal.js.map",
+    "components/project-card.js": "components/project-card.js.map",
+    "components/ui-button.js": "components/ui-button.js.map",
+    "components/ui-input.js": "components/ui-input.js.map",
+    "pages/auth/log-in.js": "pages/auth/log-in.js.map",
+    "pages/auth/sign-up.js": "pages/auth/sign-up.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

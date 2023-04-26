@@ -1,0 +1,29 @@
+{
+  "DateDescription": {
+    "description": "Auto imported from components/DateDescription.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ProjectCard": {
+    "description": "Auto imported from components/ProjectCard.vue"
+  },
+  "FormsLoginForm": {
+    "description": "Auto imported from components/forms/LoginForm.vue"
+  },
+  "FormsSignupForm": {
+    "description": "Auto imported from components/forms/SignupForm.vue"
+  },
+  "ModalsEditCompanyModal": {
+    "description": "Auto imported from components/modals/EditCompanyModal.vue"
+  },
+  "ModalsModal": {
+    "description": "Auto imported from components/modals/Modal.vue"
+  },
+  "UiButton": {
+    "description": "Auto imported from components/ui/Button.vue"
+  },
+  "UiInput": {
+    "description": "Auto imported from components/ui/Input.vue"
+  }
+}

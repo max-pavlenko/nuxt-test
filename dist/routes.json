@@ -1,0 +1,20 @@
+[
+  {
+    "name": "auth-log-in",
+    "path": "/auth/log-in",
+    "component": "C:\\\\Users\\\\_\\\\WebstormProjects\\\\nuxt-test\\\\pages\\\\auth\\\\log-in.vue",
+    "chunkName": "pages/auth/log-in"
+  },
+  {
+    "name": "auth-sign-up",
+    "path": "/auth/sign-up",
+    "component": "C:\\\\Users\\\\_\\\\WebstormProjects\\\\nuxt-test\\\\pages\\\\auth\\\\sign-up.vue",
+    "chunkName": "pages/auth/sign-up"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\_\\\\WebstormProjects\\\\nuxt-test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
