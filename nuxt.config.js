@@ -1,6 +1,7 @@
 export default {
   ssr: true,
   buildDir: 'dist',
+  target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-test',

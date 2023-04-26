@@ -9,7 +9,8 @@
     "generate": "nuxt generate",
     "lint:prettier": "prettier --check .",
     "lint": "yarn lint:prettier",
-    "lintfix": "prettier --write --list-different ."
+    "lintfix": "prettier --write --list-different .",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
@@ -28,6 +29,7 @@
     "eslint-config-prettier": "^8.5.0",
     "postcss": "^8.4.23",
     "prettier": "^2.7.1",
+    "push-dir": "^0.4.1",
     "tailwindcss": "^3.3.1"
   }
 }
