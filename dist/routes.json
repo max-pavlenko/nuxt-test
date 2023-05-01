@@ -3,18 +3,21 @@
     "name": "auth-log-in",
     "path": "/auth/log-in",
     "component": "C:\\\\Users\\\\_\\\\WebstormProjects\\\\nuxt-test\\\\pages\\\\auth\\\\log-in.vue",
-    "chunkName": "pages/auth/log-in"
+    "chunkName": "pages/auth/log-in",
+    "_name": "_54ea1489"
   },
   {
     "name": "auth-sign-up",
     "path": "/auth/sign-up",
     "component": "C:\\\\Users\\\\_\\\\WebstormProjects\\\\nuxt-test\\\\pages\\\\auth\\\\sign-up.vue",
-    "chunkName": "pages/auth/sign-up"
+    "chunkName": "pages/auth/sign-up",
+    "_name": "_aaeafd00"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\_\\\\WebstormProjects\\\\nuxt-test\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_4c32f74f"
   }
 ]

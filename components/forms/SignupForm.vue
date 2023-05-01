@@ -1,7 +1,7 @@
 <template>
   <Modal :on-submit="submitForm" header-text="Register">
     <template v-slot:formBody>
-      <Input autocomplete="name" :value="email" label="Name" @input="onNameChange"/>
+      <Input autocomplete="name" :value="name" label="Name" @input="onNameChange"/>
       <Input autocomplete="email" :value="email" type="email" label="Email" @input="onEmailChange"/>
       <Input autocomplete="current-password" :value="password" type="password"
              label="Password" @input="onPasswordChange"/>

@@ -399,7 +399,7 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/forms/SignupForm.vue?vue&type=template&id=3ae5ee6e&scoped=true&
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/forms/SignupForm.vue?vue&type=template&id=5960c3f3&scoped=true&
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -414,7 +414,7 @@ var render = function render() {
         return [_c('Input', {
           attrs: {
             "autocomplete": "name",
-            "value": _vm.email,
+            "value": _vm.name,
             "label": "Name"
           },
           on: {
@@ -466,7 +466,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/forms/SignupForm.vue?vue&type=template&id=3ae5ee6e&scoped=true&
+// CONCATENATED MODULE: ./components/forms/SignupForm.vue?vue&type=template&id=5960c3f3&scoped=true&
 
 // EXTERNAL MODULE: external "vuex"
 var external_vuex_ = __webpack_require__(3);
@@ -558,7 +558,7 @@ var component = Object(componentNormalizer["a" /* default */])(
   staticRenderFns,
   false,
   injectStyles,
-  "3ae5ee6e",
+  "5960c3f3",
   "1f131e30"
   
 )
